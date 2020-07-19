@@ -1,7 +1,9 @@
+video poster="hhttps://github.com/hrittikhere/hrittikhere/blob/master/pic.png" autoplay="autoplay" controls="controls" width="640" height="360">
+    <source src="https://github.com/hrittikhere/hrittikhere/blob/master/hrittikhere.mp4" type="video/mp4"></video>
+
+
 ### Hi there 👋
 
-<!--
-**hrittikhere/hrittikhere** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
