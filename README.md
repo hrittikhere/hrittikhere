@@ -10,10 +10,17 @@ Hey Hrittik here, for me coding is way to create dreams into real life applicati
     <li>💻 Intrested and learning Selenium </li>
     <li>🌱 Video Creation and Explaination intrigues me. <a href="https://www.youtube.com/hrittikexplains/">My Youtube Channel</a>  
     <li>👯 I’m looking to collaborate on a project with anyone</li>
-    <li>📫 Let's Connect  [![Connect on LinkedIn](https://img.shields.io/badge/--linkedin?label=LinkedIn&logo=LinkedIn&style=social)](https://www.linkedin.com/in/hrittikhere
+    <li>📫 Let's Connect - <a href="https://www.linkedin.com/in/hrittikhere/">LinkedIn</a></li>
+    
   </ul>
 
 
+
+
+<p align="center"> 
+  Visitor count<br>
+  <img src="https://profile-counter.glitch.me/hritikhere/count.svg" />
+</p>
 
 
 
