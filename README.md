@@ -1,34 +1,46 @@
-<img src="https://github.com/hrittikhere/hrittikhere/blob/master/abcd.gif"></img>
+<img  alt="ANIMATION" src="https://github.com/hrittikhere/hrittikhere/blob/master/abcd.gif"></img>
 
 
 ### Hi there 👋
 
-Hey Hrittik here, for me coding is way to create dreams into real life applications and solve problems. Not much to share right now. I'm in my beta phase. 
+## Hey Hrittik here, for me coding is way to create dreams into real life applications and solve problems. Not much to share right now. I'm in my beta phase. 
 
 <ul>
-    <li>🌐 Currently learning Web Development </li>
-    <li>💻 Intrested and learning Selenium </li>
-    <li>🌱 Video Creation and Explaination intrigues me. <a href="https://www.youtube.com/hrittikexplains/">My Youtube Channel</a>  
-    <li>👯 I’m looking to collaborate on a project with anyone</li>
-    <li>📫 Let's Connect - <a href="https://www.linkedin.com/in/hrittikhere/">LinkedIn</a></li>
-    
-  </ul>
+    <li>🌱 I’m currently learning everything 🤣 </li>
+    <li>🔭 I’m currently working on My Web Development Projects 🌐</li>
+    <li>⚡ Fun fact: Video Creation and Explaination intrigues me aka <a href="https://www.youtube.com/hrittikexplains/">Hrittik Explains</a></li>
+    <li>👯 I’m looking to collaborate with other content creators🤩</li>
+</ul>
 
+### Connect with me:
 
+[<img align="left" alt=" LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt=" Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+[<img align="left" alt=" YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
 
+<br />
+<br />
 
+---
+<img align="left" alt="Dog" width="" src="https://github.com/hrittikhere/hrittikhere/blob/master/tenor.gif" />
+<img align="right" alt="Dog" width="" src="https://github.com/hrittikhere/hrittikhere/blob/master/tenor.gif" />
 <p align="center"> 
   Visitor count<br>
   <img src="https://profile-counter.glitch.me/hritikhere/count.svg" />
 </p>
 
+<br />
+<br />
+
+---
+
+
+[twitter]: https://twitter.com/hrittikhere
+[youtube]: https://youtube.com/hrittikexplains
+[linkedin]: https://linkedin.com/in/hrittikhere
 
 
 
 
-
-
-
-
-
+<!-- Hope you Have a Nice Day -->
 
