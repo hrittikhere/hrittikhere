@@ -1,9 +1,10 @@
 <img  alt="ANIMATION" src="https://github.com/hrittikhere/hrittikhere/blob/master/abcd.gif"></img>
 
 
-### Hi there 👋
+### 
+<h1 align="center">Hey <img src="https://github.com/hrittikhere/hrittikhere/blob/master/Hi.gif" width="40px" />, Welcome to my GitHub 👨‍💻❤️</h1>
 
-## Hey Hrittik here, for me coding is way to create dreams into real life applications and solve problems. Not much to share right now. I'm in my beta phase. 
+## Everyone knows me as Hrittik, for me coding is way to create dreams into real life applications and solve problems. Not much to share right now. I'm in my beta phase. 
 
 <ul>
     <li>🌱 I’m currently learning everything 🤣 </li>
