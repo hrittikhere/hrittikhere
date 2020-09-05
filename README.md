@@ -26,11 +26,11 @@
 
 ### 📺Latest YouTube Videos
 <!-- YOUTUBE:START -->
+- [Unboxing my first Reward for Sensodyne’s #ForTheLoveOf](https://www.youtube.com/watch?v=h2fQ332RyL8)
 - [Get Unlimited Chrome Dino Score (two lines of code)](https://www.youtube.com/watch?v=Te7oSM7v-MA)
 - [Get unlimited views on GitHub readme after implementing counter feature. Latest 2020 trick](https://www.youtube.com/watch?v=sTRDgk-jSUY)
 - [Playing Paint.IO #JOIN innnnnnnnnnnnnnnnn](https://www.youtube.com/watch?v=_v-OW5K_kZ0)
 - [What is VPN? Benefits of VPN? How to use VPN? Best  VPN?](https://www.youtube.com/watch?v=BD3LkXhSLgs)
-- [Are we wrong here?](https://www.youtube.com/watch?v=wVpdHO4r2r0)
 <!-- YOUTUBE:END -->
 
 
