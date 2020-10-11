@@ -1,8 +1,8 @@
-<img  alt="ANIMATION" src="https://github.com/hrittikhere/hrittikhere/blob/master/abcd.gif"></img>
+<img  alt="ANIMATION" src="abcd.gif"></img>
 
 
 ### 
-<h1 align="center">Hey <img src="https://github.com/hrittikhere/hrittikhere/blob/master/Hi.gif" width="40px" />, Welcome to my GitHub 👨‍💻❤️</h1>
+<h1 align="center">Hey <img src="Hi.gif" width="40px" />, Welcome to my GitHub 👨‍💻❤️</h1>
 
 ## Everyone knows me as Hrittik, for me coding is way to create dreams into real life applications and solve problems. Not much to share right now. I'm in my beta phase. 
 
@@ -43,8 +43,8 @@
 <br />
 
 ---
-<img align="left" alt="Dog" width="" src="https://github.com/hrittikhere/hrittikhere/blob/master/tenor.gif" />
-<img align="right" alt="Dog" width="" src="https://github.com/hrittikhere/hrittikhere/blob/master/tenor.gif" />
+<img align="left" alt="Dog" width="" src="tenor.gif" />
+<img align="right" alt="Dog" width="" src="tenor.gif" />
 <p align="center"> 
   Visitor count<br>
   <img src="https://profile-counter.glitch.me/hritikhere/count.svg" />
