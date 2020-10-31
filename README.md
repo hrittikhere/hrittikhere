@@ -9,6 +9,7 @@
 <ul>
     <li>🌱 I’m currently learning everything 🤣 </li>
     <li>🔭 I’m currently working on My Web Development Projects 🌐</li>
+    <li>✍ I write content about the things I'm passionate about </li>
     <li>⚡ Fun fact: Video Creation and Explaination intrigues me aka <a href="https://www.youtube.com/hrittikexplains/">Hrittik Explains</a></li>
     <li>👯 I’m looking to collaborate with other content creators🤩</li>
 </ul>
@@ -17,7 +18,7 @@
 ### My skills <br/> <br/> ![Python](https://img.shields.io/badge/-Python-0077B5?style=flat&logoColor=white&logo=python) ![HTML](https://img.shields.io/badge/-HTML-ff0d00?style=flat&logoColor=white&logo=html5) ![CSS](https://img.shields.io/badge/-CSS-196eff?style=flat&logoColor=white&logo=css3) ![JavaScript](https://img.shields.io/badge/-JavaScript-ffdd19?style=flat&logoColor=white&logo=javascript)
 
 
-### Connect with me
+### Connect with me 🌏
 
 [<img align="left" alt=" LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt=" Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
@@ -28,7 +29,7 @@
 
 ---
 
-### 📺Latest YouTube Videos
+### Latest YouTube Videos 📺
 <!-- YOUTUBE:START -->
 - [Zeb-Tempest Premium USB Gaming 🟡 Mouse with 7 Modes LED Lights Under 599 💥Unboxing💥Giveaway](https://www.youtube.com/watch?v=3VpeUxVux-Y)
 - [Strictly AWS- What is EC2 ?](https://www.youtube.com/watch?v=--4rJbUREEg)
@@ -39,6 +40,13 @@
 
 
 
+<br />
+<br />
+
+
+### Latest Blog Posts 📝
+- [Why networking is so important - p3r.one ](https://www.p3r.one/why-networking-is-so-important/)
+<!-- []() -->
 <br />
 <br />
 
