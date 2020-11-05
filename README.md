@@ -9,6 +9,7 @@
 <ul>
     <li>🌱 I’m currently learning everything 🤣 </li>
     <li>🔭 I’m currently working on My Web Development Projects 🌐</li>
+    <li>⚙ ML and AI next</li>
     <li>✍ I write content about the things I'm passionate about </li>
     <li>⚡ Fun fact: Video Creation and Explaination intrigues me aka <a href="https://www.youtube.com/hrittikexplains/">Hrittik Explains</a></li>
     <li>👯 I’m looking to collaborate with other content creators🤩</li>
