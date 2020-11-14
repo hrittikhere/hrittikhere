@@ -47,6 +47,8 @@
 
 ### Latest Blog Posts 📝
 - [Why networking is so important - p3r.one ](https://www.p3r.one/why-networking-is-so-important/)
+- [4 Things to keep quiet about - p3r.one ](https://www.p3r.one/4-things-to-keep-quiet-about/)
+
 <!-- []() -->
 <br />
 <br />
