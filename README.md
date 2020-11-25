@@ -47,6 +47,9 @@
 
 ### Latest Blog Posts 📝
 <!-- BLOG-POST-LIST:START -->
+- [The Full-Stack Developer’s Roadmap Part 1: Frontend](https://www.p3r.one/the-full-stack-developers-roadmap-part-1-frontend/)
+- [4 things to keep quiet about](https://www.p3r.one/4-things-to-keep-quiet-about/)
+- [Why networking is so important](https://www.p3r.one/why-networking-is-so-important/)
 <!-- BLOG-POST-LIST:END -->
 
 <br />
