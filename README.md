@@ -48,6 +48,7 @@
 ### Latest Blog Posts 📝
 <!-- BLOG-POST-LIST:START -->
 - [The Full-Stack Developer’s Roadmap Part 2: Backend](https://www.p3r.one/the-full-stack-developers-roadmap-part-2-backend/)
+- [The in and outs of caching](https://www.p3r.one/the-in-and-outs-of-caching/)
 - [Seven things successful people say No to](https://www.p3r.one/seven-things-successful-people-say-no-to/)
 - [The Full-Stack Developer’s Roadmap Part 1: Frontend](https://www.p3r.one/the-full-stack-developers-roadmap-part-1-frontend/)
 - [4 things to keep quiet about](https://www.p3r.one/4-things-to-keep-quiet-about/)
