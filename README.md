@@ -32,11 +32,11 @@
 
 ### Latest YouTube Videos 📺
 <!-- YOUTUBE:START -->
+- [Introduction to Git GitHub: MLSA seminar [RECORDING]](https://www.youtube.com/watch?v=IbJ0ytco3Q8)
 - [Hrittik's Application for Microsoft Learn Student Ambassador. Part 3- Promotion🤗 [SELECTED]](https://www.youtube.com/watch?v=fw4aG2aDLs4)
 - [How to host website using GitHub pages without using git? easiest way for beginner](https://www.youtube.com/watch?v=kZa9aBoZK_Q)
 - [IPAD PRO UNBOXING 128GB](https://www.youtube.com/watch?v=8EXTPAH3nRw)
 - [Zeb-Tempest Premium USB Gaming 🟡 Mouse with 7 Modes LED Lights Under 599 💥Unboxing💥Giveaway](https://www.youtube.com/watch?v=3VpeUxVux-Y)
-- [Strictly AWS- What is EC2 ?](https://www.youtube.com/watch?v=--4rJbUREEg)
 <!-- YOUTUBE:END -->
 
 
