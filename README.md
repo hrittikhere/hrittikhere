@@ -51,12 +51,12 @@
 
 ### Latest Blog Posts 📝
 <!-- BLOG-POST-LIST:START -->
+- [The DevOps Roadmap: 7 Best Practices in CI/CD](https://www.p3r.one/the-devops-roadmap-7-best-practices-in-ci-cd/)
+- [The DevOps Roadmap: Fundamentals with CI/CD](https://www.p3r.one/the-devops-roadmap-fundamentals-with-ci-cd/)
 - [The Full-Stack Developer’s Roadmap Part 4: APIs](https://www.p3r.one/the-full-stack-developers-roadmap-part-4-apis/)
 - [The Full-Stack Developer’s Roadmap Part 3: Databases](https://www.p3r.one/the-full-stack-developers-roadmap-part-3-databases/)
 - [The Full-Stack Developer’s Roadmap Part 2: Backend](https://www.p3r.one/the-full-stack-developers-roadmap-part-2-backend/)
 - [The in and outs of caching](https://www.p3r.one/the-in-and-outs-of-caching/)
-- [Seven things successful people say No to](https://www.p3r.one/seven-things-successful-people-say-no-to/)
-- [The Full-Stack Developer’s Roadmap Part 1: Frontend](https://www.p3r.one/the-full-stack-developers-roadmap-part-1-frontend/)
 <!-- BLOG-POST-LIST:END -->
 
 <br />
