@@ -36,11 +36,11 @@
 
 ### Latest YouTube Videos 📺
 <!-- YOUTUBE:START -->
+- [What actually is in Loginradius swag kit?](https://www.youtube.com/watch?v=4W3g0x_vPRw)
 - [Introduction to Git GitHub: MLSA seminar [RECORDING]](https://www.youtube.com/watch?v=IbJ0ytco3Q8)
 - [Hrittik's Application for Microsoft Learn Student Ambassador. Part 3- Promotion🤗 [SELECTED]](https://www.youtube.com/watch?v=fw4aG2aDLs4)
 - [How to host website using GitHub pages without using git? easiest way for beginner](https://www.youtube.com/watch?v=kZa9aBoZK_Q)
 - [IPAD PRO UNBOXING 128GB](https://www.youtube.com/watch?v=8EXTPAH3nRw)
-- [Zeb-Tempest Premium USB Gaming 🟡 Mouse with 7 Modes LED Lights Under 599 💥Unboxing💥Giveaway](https://www.youtube.com/watch?v=3VpeUxVux-Y)
 <!-- YOUTUBE:END -->
 
 
