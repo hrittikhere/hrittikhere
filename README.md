@@ -51,12 +51,12 @@
 
 ### Latest Blog Posts 📝
 <!-- BLOG-POST-LIST:START -->
+- [What is Cloud Computing?](https://www.p3r.one/what-is-cloud-computing/)
 - [How To Stop Taking Things Personally](https://www.p3r.one/how-to-stop-taking-things-personally/)
 - [The Ins and Outs of Content Delivery Networks (CDN)](https://www.p3r.one/the-ins-and-outs-of-content-delivery-networks-cdn/)
 - [The DevOps Roadmap: 7 Best Practices in CI/CD](https://www.p3r.one/the-devops-roadmap-7-best-practices-in-ci-cd/)
 - [The DevOps Roadmap: Fundamentals with CI/CD](https://www.p3r.one/the-devops-roadmap-fundamentals-with-ci-cd/)
 - [The Full-Stack Developer’s Roadmap Part 4: APIs](https://www.p3r.one/the-full-stack-developers-roadmap-part-4-apis/)
-- [The Full-Stack Developer’s Roadmap Part 3: Databases](https://www.p3r.one/the-full-stack-developers-roadmap-part-3-databases/)
 <!-- BLOG-POST-LIST:END -->
 
 <br />
