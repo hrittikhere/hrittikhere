@@ -57,6 +57,10 @@
 - [The Ins and Outs of Content Delivery Networks (CDN)](https://www.p3r.one/the-ins-and-outs-of-content-delivery-networks-cdn/)
 - [The DevOps Roadmap: 7 Best Practices in CI/CD](https://www.p3r.one/the-devops-roadmap-7-best-practices-in-ci-cd/)
 - [The DevOps Roadmap: Fundamentals with CI/CD](https://www.p3r.one/the-devops-roadmap-fundamentals-with-ci-cd/)
+- [The Full-Stack Developer’s Roadmap Part 4: APIs](https://www.p3r.one/the-full-stack-developers-roadmap-part-4-apis/)
+- [The Full-Stack Developer’s Roadmap Part 3: Databases](https://www.p3r.one/the-full-stack-developers-roadmap-part-3-databases/)
+- [The Full-Stack Developer’s Roadmap Part 2: Backend](https://www.p3r.one/the-full-stack-developers-roadmap-part-2-backend/)
+- [The in and outs of caching](https://www.p3r.one/the-in-and-outs-of-caching/)
 <!-- BLOG-POST-LIST:END -->
 
 <br />
