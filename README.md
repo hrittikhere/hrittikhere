@@ -51,6 +51,8 @@
 
 ### Latest Blog Posts 📝
 <!-- BLOG-POST-LIST:START -->
+- [The DevOps Roadmap: Virtualization](https://www.p3r.one/the-devops-roadmap-virtualization/)
+- [How to Increase Your Luck Surface Area](https://www.p3r.one/how-to-increase-your-luck-surface-area/)
 - [Cloud Computing models: SaaS vs IaaS vs PaaS](https://www.p3r.one/cloud-computing-models-saas-vs-iaas-vs-paas/)
 - [What is Cloud Computing?](https://www.p3r.one/what-is-cloud-computing/)
 - [How To Stop Taking Things Personally](https://www.p3r.one/how-to-stop-taking-things-personally/)
@@ -59,8 +61,6 @@
 - [The DevOps Roadmap: Fundamentals with CI/CD](https://www.p3r.one/the-devops-roadmap-fundamentals-with-ci-cd/)
 - [The Full-Stack Developer’s Roadmap Part 4: APIs](https://www.p3r.one/the-full-stack-developers-roadmap-part-4-apis/)
 - [The Full-Stack Developer’s Roadmap Part 3: Databases](https://www.p3r.one/the-full-stack-developers-roadmap-part-3-databases/)
-- [The Full-Stack Developer’s Roadmap Part 2: Backend](https://www.p3r.one/the-full-stack-developers-roadmap-part-2-backend/)
-- [The in and outs of caching](https://www.p3r.one/the-in-and-outs-of-caching/)
 <!-- BLOG-POST-LIST:END -->
 
 <br />
