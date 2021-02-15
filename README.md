@@ -51,6 +51,7 @@
 
 ### Latest Blog Posts 📝
 <!-- BLOG-POST-LIST:START -->
+- [The DevOps Roadmap: Containerization, Containers and why do you need them?](https://www.p3r.one/the-devops-roadmap-containerization-containers-and-why-do-you-need-them/)
 - [The DevOps Roadmap: 7 Containerization Best Practices](https://www.p3r.one/the-devops-roadmap-7-containerization-best-practices/)
 - [The DevOps Roadmap: Virtualization](https://www.p3r.one/the-devops-roadmap-virtualization/)
 - [How to Increase Your Luck Surface Area](https://www.p3r.one/how-to-increase-your-luck-surface-area/)
@@ -60,7 +61,6 @@
 - [The Ins and Outs of Content Delivery Networks (CDN)](https://www.p3r.one/the-ins-and-outs-of-content-delivery-networks-cdn/)
 - [The DevOps Roadmap: 7 Best Practices in CI/CD](https://www.p3r.one/the-devops-roadmap-7-best-practices-in-ci-cd/)
 - [The DevOps Roadmap: Fundamentals with CI/CD](https://www.p3r.one/the-devops-roadmap-fundamentals-with-ci-cd/)
-- [The Full-Stack Developer’s Roadmap Part 4: APIs](https://www.p3r.one/the-full-stack-developers-roadmap-part-4-apis/)
 <!-- BLOG-POST-LIST:END -->
 
 <br />
