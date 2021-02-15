@@ -51,6 +51,7 @@
 
 ### Latest Blog Posts 📝
 <!-- BLOG-POST-LIST:START -->
+- [The DevOps Roadmap: 7 Containerization Best Practices](https://www.p3r.one/the-devops-roadmap-7-containerization-best-practices/)
 - [The DevOps Roadmap: Virtualization](https://www.p3r.one/the-devops-roadmap-virtualization/)
 - [How to Increase Your Luck Surface Area](https://www.p3r.one/how-to-increase-your-luck-surface-area/)
 - [Cloud Computing models: SaaS vs IaaS vs PaaS](https://www.p3r.one/cloud-computing-models-saas-vs-iaas-vs-paas/)
@@ -60,7 +61,6 @@
 - [The DevOps Roadmap: 7 Best Practices in CI/CD](https://www.p3r.one/the-devops-roadmap-7-best-practices-in-ci-cd/)
 - [The DevOps Roadmap: Fundamentals with CI/CD](https://www.p3r.one/the-devops-roadmap-fundamentals-with-ci-cd/)
 - [The Full-Stack Developer’s Roadmap Part 4: APIs](https://www.p3r.one/the-full-stack-developers-roadmap-part-4-apis/)
-- [The Full-Stack Developer’s Roadmap Part 3: Databases](https://www.p3r.one/the-full-stack-developers-roadmap-part-3-databases/)
 <!-- BLOG-POST-LIST:END -->
 
 <br />
