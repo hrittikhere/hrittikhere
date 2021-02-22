@@ -51,6 +51,8 @@
 
 ### Latest Blog Posts 📝
 <!-- BLOG-POST-LIST:START -->
+- [Why overstimulation sucks your happiness?](https://www.p3r.one/why-overstimulation-sucks-your-happiness/)
+- [Serverless, FaaS and why do you need them?](https://www.p3r.one/serverless-faas-and-why-do-you-need-them/)
 - [The DevOps Roadmap: Unikernels](https://www.p3r.one/the-devops-roadmap-unikernels/)
 - [The DevOps Roadmap: Containerization, Containers and why do you need them?](https://www.p3r.one/the-devops-roadmap-containerization-containers-and-why-do-you-need-them/)
 - [The DevOps Roadmap: 7 Containerization Best Practices](https://www.p3r.one/the-devops-roadmap-7-containerization-best-practices/)
@@ -59,8 +61,6 @@
 - [Cloud Computing models: SaaS vs IaaS vs PaaS](https://www.p3r.one/cloud-computing-models-saas-vs-iaas-vs-paas/)
 - [What is Cloud Computing?](https://www.p3r.one/what-is-cloud-computing/)
 - [How To Stop Taking Things Personally](https://www.p3r.one/how-to-stop-taking-things-personally/)
-- [The Ins and Outs of Content Delivery Networks (CDN)](https://www.p3r.one/the-ins-and-outs-of-content-delivery-networks-cdn/)
-- [The DevOps Roadmap: 7 Best Practices in CI/CD](https://www.p3r.one/the-devops-roadmap-7-best-practices-in-ci-cd/)
 <!-- BLOG-POST-LIST:END -->
 
 <br />
