@@ -51,6 +51,8 @@
 
 ### Latest Blog Posts 📝
 <!-- BLOG-POST-LIST:START -->
+- [The DevOps Roadmap: Docker](https://www.p3r.one/the-devops-roadmap-docker/)
+- [Why you should focus on enough instead of more?](https://www.p3r.one/why-you-should-focus-on-enough-instead-of-more/)
 - [Why overstimulation sucks your happiness?](https://www.p3r.one/why-overstimulation-sucks-your-happiness/)
 - [Serverless, FaaS and why do you need them?](https://www.p3r.one/serverless-faas-and-why-do-you-need-them/)
 - [The DevOps Roadmap: Unikernels](https://www.p3r.one/the-devops-roadmap-unikernels/)
@@ -59,8 +61,6 @@
 - [The DevOps Roadmap: Virtualization](https://www.p3r.one/the-devops-roadmap-virtualization/)
 - [How to Increase Your Luck Surface Area](https://www.p3r.one/how-to-increase-your-luck-surface-area/)
 - [Cloud Computing models: SaaS vs IaaS vs PaaS](https://www.p3r.one/cloud-computing-models-saas-vs-iaas-vs-paas/)
-- [What is Cloud Computing?](https://www.p3r.one/what-is-cloud-computing/)
-- [How To Stop Taking Things Personally](https://www.p3r.one/how-to-stop-taking-things-personally/)
 <!-- BLOG-POST-LIST:END -->
 
 <br />
