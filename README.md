@@ -65,6 +65,7 @@
 
 <br />
 <br />
+<h3 align="center">Show some &nbsp;❤️&nbsp; by starring this repository!</h3>
 
 ---
 <img align="left" alt="Dog" width="" src="tenor.gif" />
