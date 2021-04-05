@@ -22,10 +22,10 @@
 ### Connect with me 🌏
 
 [<img align="left" alt=" LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt=" YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/microsoft.svg" />][MLSA]
+[<img align="left" alt=" MLSA" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/microsoft.svg" />][MLSA]
 [<img align="left" alt=" YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
 [<img align="left" alt=" Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt=" YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />][facebook]
+
 
 <br />
 <br />
@@ -84,7 +84,6 @@
 [twitter]: https://twitter.com/hrittikhere
 [youtube]: https://youtube.com/hrittikexplains
 [linkedin]: https://linkedin.com/in/hrittikhere
-[facebook]: https://facebook.com/hrittikhere
 [MLSA]: https://studentambassadors.microsoft.com/en-US/profile/90461
 
 
