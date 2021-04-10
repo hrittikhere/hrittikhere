@@ -15,6 +15,16 @@
     <li>👯 I’m looking to collaborate with other content creators🤩</li>
 </ul>
 
+#### 👷 Check out what I'm currently working on
+{{range recentContributions 5}}
+- [{{.Repo.Name}}]({{.Repo.URL}}) - {{.Repo.Description}} ({{humanize .OccurredAt}})
+{{- end}}
+
+#### 👨‍💻 Repositories I created recently
+{{range recentRepos 5}}
+- [{{.Name}}]({{.URL}}){{ with .Description }} - {{.}}{{ end }}
+{{- end}}
+
 
 ### My skills <br/> <br/> ![Python](https://img.shields.io/badge/-Python-0077B5?style=flat&logoColor=white&logo=python) ![HTML](https://img.shields.io/badge/-HTML-ff0d00?style=flat&logoColor=white&logo=html5) ![CSS](https://img.shields.io/badge/-CSS-196eff?style=flat&logoColor=white&logo=css3) ![JavaScript](https://img.shields.io/badge/-JavaScript-ffdd19?style=flat&logoColor=white&logo=javascript)
 
