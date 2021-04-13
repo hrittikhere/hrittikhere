@@ -42,6 +42,7 @@
 - [Hrittik's Application for Microsoft Learn Student Ambassador. Part 3- Promotion🤗 [SELECTED]](https://www.youtube.com/watch?v=fw4aG2aDLs4)
 - [How to host website using GitHub pages without using git? easiest way for beginner](https://www.youtube.com/watch?v=kZa9aBoZK_Q)
 <!-- YOUTUBE:END -->
+▶ [...more YouTube videos](https://www.youtube.com/channel/UC1Hcs44hqebvjvTeJuVEi2A?sub_confirmation=1)
 
 
 
@@ -62,6 +63,7 @@
 - [The DevOps Roadmap: Virtualization](https://www.p3r.one/the-devops-roadmap-virtualization/)
 - [How to Increase Your Luck Surface Area](https://www.p3r.one/how-to-increase-your-luck-surface-area/)
 <!-- BLOG-POST-LIST:END -->
+▶ [...more blog articles](https://www.p3r.one/author/hrittik/)
 
 <br />
 <br />
@@ -82,9 +84,10 @@
 
 
 [twitter]: https://twitter.com/hrittikhere
-[youtube]: https://youtube.com/hrittikexplains
+[youtube]: https://www.youtube.com/channel/UC1Hcs44hqebvjvTeJuVEi2A?sub_confirmation=1
 [linkedin]: https://linkedin.com/in/hrittikhere
 [MLSA]: https://studentambassadors.microsoft.com/en-US/profile/90461
+[blog]:https://www.p3r.one/author/hrittik/
 
 
 <!-- Hope you Have a Nice Day. Let's collab and connect using these links 😋 -->
