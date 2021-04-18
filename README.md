@@ -49,6 +49,8 @@
 
 ### Latest Blog Posts 📝
 <!-- BLOG-POST-LIST:START -->
+- [Kubernetes: Everything You Need to Know about it](https://www.p3r.one/kubernetes-from-google/)
+- [Turbo-charge with Container Orchestration](https://www.p3r.one/container-orchestration/)
 - [Unikernel Vs Container Vs VMs: Here is what you should use](https://www.p3r.one/unikernel-vs-container-vs-vms/)
 - [The DevOps Roadmap: Docker](https://www.p3r.one/the-devops-roadmap-docker/)
 - [Why you should focus on enough instead of more?](https://www.p3r.one/why-you-should-focus-on-enough-instead-of-more/)
@@ -57,8 +59,6 @@
 - [The DevOps Roadmap: Unikernels](https://www.p3r.one/the-devops-roadmap-unikernels/)
 - [The DevOps Roadmap: Containerization, Containers and why do you need them?](https://www.p3r.one/the-devops-roadmap-containerization-containers-and-why-do-you-need-them/)
 - [The DevOps Roadmap: 7 Containerization Best Practices](https://www.p3r.one/the-devops-roadmap-7-containerization-best-practices/)
-- [The DevOps Roadmap: Virtualization](https://www.p3r.one/the-devops-roadmap-virtualization/)
-- [How to Increase Your Luck Surface Area](https://www.p3r.one/how-to-increase-your-luck-surface-area/)
 <!-- BLOG-POST-LIST:END -->
 ▶ [...more blog articles](https://www.p3r.one/author/hrittik/)
 
