@@ -49,6 +49,7 @@
 
 ### Latest Blog Posts 📝
 <!-- BLOG-POST-LIST:START -->
+- [CNCF: Forefront of the Cloud Native Landscape](https://www.p3r.one/cncf-cloud-native-computing-foundation/)
 - [Kubernetes: Everything You Need to Know about it](https://www.p3r.one/kubernetes-from-google/)
 - [Turbo-charge with Container Orchestration](https://www.p3r.one/container-orchestration/)
 - [Unikernel Vs Container Vs VMs: Here is what you should use](https://www.p3r.one/unikernel-vs-container-vs-vms/)
@@ -58,7 +59,6 @@
 - [Serverless, FaaS and why do you need them?](https://www.p3r.one/serverless-faas-and-why-do-you-need-them/)
 - [The DevOps Roadmap: Unikernels](https://www.p3r.one/the-devops-roadmap-unikernels/)
 - [The DevOps Roadmap: Containerization, Containers and why do you need them?](https://www.p3r.one/the-devops-roadmap-containerization-containers-and-why-do-you-need-them/)
-- [The DevOps Roadmap: 7 Containerization Best Practices](https://www.p3r.one/the-devops-roadmap-7-containerization-best-practices/)
 <!-- BLOG-POST-LIST:END -->
 ▶ [...more blog articles](https://www.p3r.one/author/hrittik/)
 
