@@ -49,6 +49,7 @@
 
 ### Latest Blog Posts 📝
 <!-- BLOG-POST-LIST:START -->
+- [Service Mesh: The Gateway to Happiness](https://www.p3r.one/service-mesh/)
 - [CNCF: Forefront of the Cloud Native Landscape](https://www.p3r.one/cncf-cloud-native-computing-foundation/)
 - [Kubernetes: Everything You Need to Know about it](https://www.p3r.one/kubernetes-from-google/)
 - [Turbo-charge with Container Orchestration](https://www.p3r.one/container-orchestration/)
@@ -58,7 +59,6 @@
 - [Why overstimulation sucks your happiness?](https://www.p3r.one/why-overstimulation-sucks-your-happiness/)
 - [Serverless, FaaS and why do you need them?](https://www.p3r.one/serverless-faas-and-why-do-you-need-them/)
 - [The DevOps Roadmap: Unikernels](https://www.p3r.one/the-devops-roadmap-unikernels/)
-- [The DevOps Roadmap: Containerization, Containers and why do you need them?](https://www.p3r.one/the-devops-roadmap-containerization-containers-and-why-do-you-need-them/)
 <!-- BLOG-POST-LIST:END -->
 ▶ [...more blog articles](https://www.p3r.one/author/hrittik/)
 
