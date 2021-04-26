@@ -33,11 +33,11 @@
 
 ### Latest YouTube Videos 📺
 <!-- YOUTUBE:START -->
+- [How to become a Microsoft learn student ambassador?](https://www.youtube.com/watch?v=JcSwk7-N-_I)
 - [The awesome swgs from DVC](https://www.youtube.com/watch?v=nZkgBSzH_QY)
 - [Download Shazam and get 5 months of ITUNES free](https://www.youtube.com/watch?v=eZQQ5ef7nsM)
 - [What actually is in Loginradius swag kit?](https://www.youtube.com/watch?v=4W3g0x_vPRw)
 - [Introduction to Git GitHub: MLSA seminar [RECORDING]](https://www.youtube.com/watch?v=IbJ0ytco3Q8)
-- [Hrittik's Application for Microsoft Learn Student Ambassador. Part 3- Promotion🤗 [SELECTED]](https://www.youtube.com/watch?v=fw4aG2aDLs4)
 <!-- YOUTUBE:END -->
 ▶ [...more YouTube videos](https://www.youtube.com/channel/UC1Hcs44hqebvjvTeJuVEi2A?sub_confirmation=1)
 
