@@ -49,6 +49,7 @@
 
 ### Latest Blog Posts 📝
 <!-- BLOG-POST-LIST:START -->
+- [Three Monsters: The path to Self Growth](https://www.p3r.one/three-monsters-the-path-to-self-growth/)
 - [Proxy Servers: The Captivate Shield](https://www.p3r.one/forward-reverse-proxy-servers/)
 - [Service Mesh: The Gateway to Happiness](https://www.p3r.one/service-mesh/)
 - [CNCF: Forefront of the Cloud Native Landscape](https://www.p3r.one/cncf-cloud-native-computing-foundation/)
@@ -58,7 +59,6 @@
 - [The DevOps Roadmap: Docker](https://www.p3r.one/the-devops-roadmap-docker/)
 - [Why you should focus on enough instead of more?](https://www.p3r.one/why-you-should-focus-on-enough-instead-of-more/)
 - [Why overstimulation sucks your happiness?](https://www.p3r.one/why-overstimulation-sucks-your-happiness/)
-- [Serverless, FaaS and why do you need them?](https://www.p3r.one/serverless-faas-and-why-do-you-need-them/)
 <!-- BLOG-POST-LIST:END -->
 ▶ [...more blog articles](https://www.p3r.one/author/hrittik/)
 
