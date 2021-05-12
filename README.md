@@ -49,6 +49,7 @@
 
 ### Latest Blog Posts 📝
 <!-- BLOG-POST-LIST:START -->
+- [Portainer vs Mirantis: My Experience in 2021](https://www.p3r.one/portainer-vs-mirantis-my-experience-in-2021/)
 - [Three Monsters: The path to Self Growth](https://www.p3r.one/three-monsters-the-path-to-self-growth/)
 - [Proxy Servers: The Captivate Shield](https://www.p3r.one/forward-reverse-proxy-servers/)
 - [Service Mesh: The Gateway to Happiness](https://www.p3r.one/service-mesh/)
@@ -58,7 +59,6 @@
 - [Unikernel Vs Container Vs VMs: Here is what you should use](https://www.p3r.one/unikernel-vs-container-vs-vms/)
 - [The DevOps Roadmap: Docker](https://www.p3r.one/the-devops-roadmap-docker/)
 - [Why you should focus on enough instead of more?](https://www.p3r.one/why-you-should-focus-on-enough-instead-of-more/)
-- [Why overstimulation sucks your happiness?](https://www.p3r.one/why-overstimulation-sucks-your-happiness/)
 <!-- BLOG-POST-LIST:END -->
 ▶ [...more blog articles](https://www.p3r.one/author/hrittik/)
 
