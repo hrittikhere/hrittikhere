@@ -49,6 +49,7 @@
 
 ### Latest Blog Posts 📝
 <!-- BLOG-POST-LIST:START -->
+- [Object and Block Storage: How They Differ?](https://www.p3r.one/object-and-block-storage/)
 - [Helm: Why DevOps Engineers Love it?](https://www.p3r.one/helm-package-manager-kubernetes/)
 - [180 Million Orders: The Dominos Breach and what you should learn from it](https://www.p3r.one/dominos-india-breach/)
 - [Portainer vs Mirantis: My Experience in 2021](https://www.p3r.one/portainer-vs-mirantis-my-experience-in-2021/)
@@ -58,7 +59,6 @@
 - [CNCF: Forefront of the Cloud Native Landscape](https://www.p3r.one/cncf-cloud-native-computing-foundation/)
 - [Kubernetes: Everything You Need to Know about it](https://www.p3r.one/kubernetes-from-google/)
 - [Turbo-charge with Container Orchestration](https://www.p3r.one/container-orchestration/)
-- [Unikernel Vs Container Vs VMs: Here is what you should use](https://www.p3r.one/unikernel-vs-container-vs-vms/)
 <!-- BLOG-POST-LIST:END -->
 ▶ [...more blog articles](https://www.p3r.one/author/hrittik/)
 
