@@ -49,6 +49,7 @@
 
 ### Latest Blog Posts 📝
 <!-- BLOG-POST-LIST:START -->
+- [Goal Setting is Bullshit: Try this Instead](https://www.p3r.one/goal-setting-is-bullshit/)
 - [Object and Block Storage: How They Differ?](https://www.p3r.one/object-and-block-storage/)
 - [Helm: Why DevOps Engineers Love it?](https://www.p3r.one/helm-package-manager-kubernetes/)
 - [180 Million Orders: The Dominos Breach and what you should learn from it](https://www.p3r.one/dominos-india-breach/)
@@ -58,7 +59,6 @@
 - [Service Mesh: The Gateway to Happiness](https://www.p3r.one/service-mesh/)
 - [CNCF: Forefront of the Cloud Native Landscape](https://www.p3r.one/cncf-cloud-native-computing-foundation/)
 - [Kubernetes: Everything You Need to Know about it](https://www.p3r.one/kubernetes-from-google/)
-- [Turbo-charge with Container Orchestration](https://www.p3r.one/container-orchestration/)
 <!-- BLOG-POST-LIST:END -->
 ▶ [...more blog articles](https://www.p3r.one/author/hrittik/)
 
