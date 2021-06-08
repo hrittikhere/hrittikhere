@@ -58,7 +58,7 @@
 - [Proxy Servers: The Captivate Shield](https://www.p3r.one/forward-reverse-proxy-servers/)
 - [Service Mesh: The Gateway to Happiness](https://www.p3r.one/service-mesh/)
 - [CNCF: Forefront of the Cloud Native Landscape](https://www.p3r.one/cncf-cloud-native-computing-foundation/)
-- [Kubernetes: Everything You Need to Know about it](https://www.p3r.one/kubernetes-from-google/)
+- [Kubernetes: The Ultimate Guide](https://www.p3r.one/kubernetes-from-google/)
 <!-- BLOG-POST-LIST:END -->
 ▶ [...more blog articles](https://www.p3r.one/author/hrittik/)
 
