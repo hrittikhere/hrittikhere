@@ -49,6 +49,7 @@
 
 ### Latest Blog Posts 📝
 <!-- BLOG-POST-LIST:START -->
+- [Observability: Your Eyes in Cloud](https://www.p3r.one/observability-simplified/)
 - [Cloud Firewalls Simplified: Beginners  Edition](https://www.p3r.one/cloud-firewalls-simplified/)
 - [Life, DevOps and Goals: A Guide on why Goal setting fails and Systems don’t](https://www.p3r.one/goal-setting-is-bullshit/)
 - [Object and Block Storage: How They Differ?](https://www.p3r.one/object-and-block-storage/)
@@ -58,7 +59,6 @@
 - [Three Monsters: The path to Self Growth](https://www.p3r.one/three-monsters-the-path-to-self-growth/)
 - [Proxy Servers: The Captivate Shield](https://www.p3r.one/forward-reverse-proxy-servers/)
 - [Service Mesh: The Gateway to Happiness](https://www.p3r.one/service-mesh/)
-- [CNCF: Forefront of the Cloud Native Landscape](https://www.p3r.one/cncf-cloud-native-computing-foundation/)
 <!-- BLOG-POST-LIST:END -->
 ▶ [...more blog articles](https://www.p3r.one/author/hrittik/)
 
