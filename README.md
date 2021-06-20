@@ -49,6 +49,7 @@
 
 ### Latest Blog Posts 📝
 <!-- BLOG-POST-LIST:START -->
+- [Chaos Engineering: Not so Chaotic](https://www.p3r.one/chaos-engineering/)
 - [On Charming Engineering Culture: My Notes](https://www.p3r.one/on-engineering-culture/)
 - [Knative: Serverless on Kubernetes](https://www.p3r.one/knative-serverless-on-kubernetes/)
 - [Observability: Your Eyes in Cloud](https://www.p3r.one/observability-simplified/)
@@ -58,7 +59,6 @@
 - [Helm: Why DevOps Engineers Love it?](https://www.p3r.one/helm-package-manager-kubernetes/)
 - [180 Million Orders: The Dominos Breach and what you should learn from it](https://www.p3r.one/dominos-india-breach/)
 - [Portainer vs Mirantis: My Experience in 2021](https://www.p3r.one/portainer-vs-mirantis-my-experience-in-2021/)
-- [Three Monsters: The path to Self Growth](https://www.p3r.one/three-monsters-the-path-to-self-growth/)
 <!-- BLOG-POST-LIST:END -->
 ▶ [...more blog articles](https://www.p3r.one/author/hrittik/)
 
