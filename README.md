@@ -49,6 +49,7 @@
 
 ### Latest Blog Posts 📝
 <!-- BLOG-POST-LIST:START -->
+- [Answer to Everything isn’t 42, it’s Family](https://www.p3r.one/answer-to-everything/)
 - [k8s vs k3s: The Comprehensive Difference](https://www.p3r.one/k8s-vs-k3s/)
 - [GPT-J: GPT-3 Democratized](https://www.p3r.one/gpt-j/)
 - [On Charming Engineering Culture: My Notes](https://www.p3r.one/on-engineering-culture/)
@@ -58,7 +59,6 @@
 - [Portainer vs Mirantis: My Experience in 2021](https://www.p3r.one/portainer-vs-mirantis-my-experience-in-2021/)
 - [Three Monsters: The path to Self Growth](https://www.p3r.one/three-monsters-the-path-to-self-growth/)
 - [Proxy Servers: The Captivate Shield](https://www.p3r.one/forward-reverse-proxy-servers/)
-- [Service Mesh: The Gateway to Happiness](https://www.p3r.one/service-mesh/)
 <!-- BLOG-POST-LIST:END -->
 ▶ [...more blog articles](https://www.p3r.one/author/hrittik/)
 
