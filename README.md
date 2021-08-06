@@ -49,6 +49,7 @@
 
 ### Latest Blog Posts 📝
 <!-- BLOG-POST-LIST:START -->
+- [You’re Invited to the Cloud Native Meetup Saar #3 – August 18, 2021](https://www.p3r.one/cloud-native-meetup-saar-3-invite/)
 - [How To Install Docker on Ubuntu 20.04?](https://www.p3r.one/install-docker-on-ubuntu-20-04/)
 - [Answer to Everything isn’t 42, it’s Family](https://www.p3r.one/answer-to-everything/)
 - [k8s vs k3s: The Comprehensive Difference](https://www.p3r.one/k8s-vs-k3s/)
@@ -58,7 +59,6 @@
 - [Helm: Why DevOps Engineers Love it?](https://www.p3r.one/helm-package-manager-kubernetes/)
 - [180 Million Orders: The Dominos Breach and what you should learn from it](https://www.p3r.one/dominos-india-breach/)
 - [Portainer vs Mirantis: My Experience in 2021](https://www.p3r.one/portainer-vs-mirantis-my-experience-in-2021/)
-- [Three Monsters: The path to Self Growth](https://www.p3r.one/three-monsters-the-path-to-self-growth/)
 <!-- BLOG-POST-LIST:END -->
 ▶ [...more blog articles](https://www.p3r.one/author/hrittik/)
 
