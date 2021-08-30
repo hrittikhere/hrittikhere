@@ -49,6 +49,7 @@
 
 ### Latest Blog Posts 📝
 <!-- BLOG-POST-LIST:START -->
+- [Kubernetes Stateful Friend: What’s more to etcd?](https://www.p3r.one/etcd-and-kubernetes/)
 - [Event Driven Architecture Demystified (For Pros)](https://www.p3r.one/event-driven-architecture/)
 - [You’re Invited to the Cloud Native Meetup Saar #3 – August 18, 2021](https://www.p3r.one/cloud-native-meetup-saar-3-invite/)
 - [How To Install Docker on Ubuntu 20.04?](https://www.p3r.one/install-docker-on-ubuntu-20-04/)
@@ -58,7 +59,6 @@
 - [On Charming Engineering Culture: My Notes](https://www.p3r.one/on-engineering-culture/)
 - [Life, DevOps and Goals: A Guide on why Goal setting fails and Systems don’t](https://www.p3r.one/goal-setting-is-bullshit/)
 - [Helm: Why DevOps Engineers Love it?](https://www.p3r.one/helm-package-manager-kubernetes/)
-- [180 Million Orders: The Dominos Breach and what you should learn from it](https://www.p3r.one/dominos-india-breach/)
 <!-- BLOG-POST-LIST:END -->
 ▶ [...more blog articles](https://www.p3r.one/author/hrittik/)
 
