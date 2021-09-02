@@ -33,8 +33,8 @@
 
 ### Latest YouTube Videos 📺
 <!-- YOUTUBE:START -->
-- [How to deploy a Linux VM on Azure easily?](https://www.youtube.com/watch?v=FYhKavHHQU8)
 - [How to connect a Linux VM to VSCode?](https://www.youtube.com/watch?v=skKH_rKGjDw)
+- [How to deploy a Linux VM on Azure easily?](https://www.youtube.com/watch?v=FYhKavHHQU8)
 - [Use Azure as your personal computer ft  VSCode Webinar Recording](https://www.youtube.com/watch?v=YjgzByOr1Qk)
 - [Apple AirPods Max Unboxing & First Look (Sky Blue)](https://www.youtube.com/watch?v=lwc6_LELoa4)
 - [KubeCon + Hudson River Trading (HRT) Swag Kit Unboxing](https://www.youtube.com/watch?v=kvfOEPcDMt8)
