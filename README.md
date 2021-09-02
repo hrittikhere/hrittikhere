@@ -33,11 +33,11 @@
 
 ### Latest YouTube Videos 📺
 <!-- YOUTUBE:START -->
+- [Use Azure as your personal computer ft  VSCode Webinar Recording](https://www.youtube.com/watch?v=YjgzByOr1Qk)
 - [Apple AirPods Max Unboxing & First Look (Sky Blue)](https://www.youtube.com/watch?v=lwc6_LELoa4)
 - [KubeCon + Hudson River Trading (HRT) Swag Kit Unboxing](https://www.youtube.com/watch?v=kvfOEPcDMt8)
 - [How to become a Microsoft learn student ambassador?](https://www.youtube.com/watch?v=JcSwk7-N-_I)
 - [The awesome swgs from DVC](https://www.youtube.com/watch?v=nZkgBSzH_QY)
-- [Download Shazam and get 5 months of ITUNES free](https://www.youtube.com/watch?v=eZQQ5ef7nsM)
 <!-- YOUTUBE:END -->
 ▶ [...more YouTube videos](https://www.youtube.com/channel/UC1Hcs44hqebvjvTeJuVEi2A?sub_confirmation=1)
 
