@@ -28,8 +28,6 @@
 <br />
 
 ---
-### Seminars/Talks 🗣
-- [Introduction to Git & GitHub](https://www.youtube.com/watch?v=IbJ0ytco3Q8)
 
 ### Latest YouTube Videos 📺
 <!-- YOUTUBE:START -->
