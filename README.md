@@ -47,6 +47,7 @@
 
 ### Latest Blog Posts 📝
 <!-- BLOG-POST-LIST:START -->
+- [Linkerd: Looming on Service Meshes](https://www.p3r.one/linkerd-service-mesh/)
 - [DVC (Git For Data): A Complete Intro](https://www.p3r.one/dvc-git-for-data/)
 - [Kubernetes Stateful Friend: What’s more to etcd?](https://www.p3r.one/etcd-and-kubernetes/)
 - [Event Driven Architecture Demystified (For Pros)](https://www.p3r.one/event-driven-architecture/)
@@ -56,7 +57,6 @@
 - [k8s vs k3s: The Comprehensive Difference](https://www.p3r.one/k8s-vs-k3s/)
 - [GPT-J: GPT-3 Democratized](https://www.p3r.one/gpt-j/)
 - [On Charming Engineering Culture: My Notes](https://www.p3r.one/on-engineering-culture/)
-- [Life, DevOps and Goals: A Guide on why Goal setting fails and Systems don’t](https://www.p3r.one/goal-setting-is-bullshit/)
 <!-- BLOG-POST-LIST:END -->
 ▶ [...more blog articles](https://www.p3r.one/author/hrittik/)
 
