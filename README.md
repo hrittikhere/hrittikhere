@@ -47,6 +47,7 @@
 
 ### Latest Blog Posts 📝
 <!-- BLOG-POST-LIST:START -->
+- [Getting gRPC Right: An Introduction and Review](https://www.p3r.one/what-is-grpc/)
 - [Linkerd: Looming on Service Meshes](https://www.p3r.one/linkerd-service-mesh/)
 - [DVC (Git For Data): A Complete Intro](https://www.p3r.one/dvc-git-for-data/)
 - [Kubernetes Stateful Friend: What’s more to etcd?](https://www.p3r.one/etcd-and-kubernetes/)
@@ -56,7 +57,6 @@
 - [Answer to Everything isn’t 42, it’s Family](https://www.p3r.one/answer-to-everything/)
 - [k8s vs k3s: The Comprehensive Difference](https://www.p3r.one/k8s-vs-k3s/)
 - [GPT-J: GPT-3 Democratized](https://www.p3r.one/gpt-j/)
-- [On Charming Engineering Culture: My Notes](https://www.p3r.one/on-engineering-culture/)
 <!-- BLOG-POST-LIST:END -->
 ▶ [...more blog articles](https://www.p3r.one/author/hrittik/)
 
