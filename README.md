@@ -47,6 +47,8 @@
 
 ### Latest Blog Posts 📝
 <!-- BLOG-POST-LIST:START -->
+- [Prometheus: As Simple As Possible](https://www.p3r.one/prometheus-simplified/)
+- [Bootstrap K3S Data: For Beginners](https://www.p3r.one/k3s-bootstrap-data/)
 - [Getting gRPC Right: An Introduction and Review](https://www.p3r.one/what-is-grpc/)
 - [Linkerd: Looming on Service Meshes](https://www.p3r.one/linkerd-service-mesh/)
 - [DVC (Git For Data): A Complete Intro](https://www.p3r.one/dvc-git-for-data/)
@@ -55,8 +57,6 @@
 - [You’re Invited to the Cloud Native Meetup Saar #3 – August 18, 2021](https://www.p3r.one/cloud-native-meetup-saar-3-invite/)
 - [How To Install Docker on Ubuntu 20.04?](https://www.p3r.one/install-docker-on-ubuntu-20-04/)
 - [Answer to Everything isn’t 42, it’s Family](https://www.p3r.one/answer-to-everything/)
-- [k8s vs k3s: The Comprehensive Difference](https://www.p3r.one/k8s-vs-k3s/)
-- [GPT-J: GPT-3 Democratized](https://www.p3r.one/gpt-j/)
 <!-- BLOG-POST-LIST:END -->
 ▶ [...more blog articles](https://www.p3r.one/author/hrittik/)
 
