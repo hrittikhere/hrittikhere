@@ -47,6 +47,7 @@
 
 ### Latest Blog Posts 📝
 <!-- BLOG-POST-LIST:START -->
+- [Courting Apache Kafka: A Beginner’s Guide To Mastering The Platform](https://www.p3r.one/apache-kafka/)
 - [How to Install Portainer on Remote Server ft. VSCode?](https://www.p3r.one/install-portainer-on-vm-vscode/)
 - [Prometheus: As Simple As Possible](https://www.p3r.one/prometheus-simplified/)
 - [Bootstrap K3S Data: For Beginners](https://www.p3r.one/k3s-bootstrap-data/)
@@ -56,7 +57,6 @@
 - [Kubernetes Stateful Friend: What’s more to etcd?](https://www.p3r.one/etcd-and-kubernetes/)
 - [Event Driven Architecture Demystified (For Pros)](https://www.p3r.one/event-driven-architecture/)
 - [You’re Invited to the Cloud Native Meetup Saar #3 – August 18, 2021](https://www.p3r.one/cloud-native-meetup-saar-3-invite/)
-- [How To Install Docker on Ubuntu 20.04?](https://www.p3r.one/install-docker-on-ubuntu-20-04/)
 <!-- BLOG-POST-LIST:END -->
 ▶ [...more blog articles](https://www.p3r.one/author/hrittik/)
 
