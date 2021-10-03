@@ -47,6 +47,7 @@
 
 ### Latest Blog Posts 📝
 <!-- BLOG-POST-LIST:START -->
+- [Rook: Cloud-Native Storage Orchestration](https://www.p3r.one/rook-cncf/)
 - [Delete namespace stuck in Terminating State](https://www.p3r.one/delete-terminating-namespace/)
 - [Strimzi : Master Apache Kafka on Kubernetes](https://www.p3r.one/strimzi-kafka-on-kubernetes/)
 - [Courting Apache Kafka: A Beginner’s Guide To Mastering The Platform](https://www.p3r.one/apache-kafka/)
@@ -56,7 +57,6 @@
 - [Getting gRPC Right: An Introduction and Review](https://www.p3r.one/what-is-grpc/)
 - [Linkerd: Looming on Service Meshes](https://www.p3r.one/linkerd-service-mesh/)
 - [DVC (Git For Data): A Complete Intro](https://www.p3r.one/dvc-git-for-data/)
-- [Kubernetes Stateful Friend: What’s more to etcd?](https://www.p3r.one/etcd-and-kubernetes/)
 <!-- BLOG-POST-LIST:END -->
 ▶ [...more blog articles](https://www.p3r.one/author/hrittik/)
 
