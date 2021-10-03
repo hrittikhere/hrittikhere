@@ -47,6 +47,7 @@
 
 ### Latest Blog Posts 📝
 <!-- BLOG-POST-LIST:START -->
+- [Operating On OpenTracing: A Beginner’s Guide](https://www.p3r.one/opentracing/)
 - [Rook: Cloud-Native Storage Orchestration](https://www.p3r.one/rook-cncf/)
 - [Delete namespace stuck in Terminating State](https://www.p3r.one/delete-terminating-namespace/)
 - [Strimzi : Master Apache Kafka on Kubernetes](https://www.p3r.one/strimzi-kafka-on-kubernetes/)
@@ -56,7 +57,6 @@
 - [Bootstrap K3S Data: For Beginners](https://www.p3r.one/k3s-bootstrap-data/)
 - [Getting gRPC Right: An Introduction and Review](https://www.p3r.one/what-is-grpc/)
 - [Linkerd: Looming on Service Meshes](https://www.p3r.one/linkerd-service-mesh/)
-- [DVC (Git For Data): A Complete Intro](https://www.p3r.one/dvc-git-for-data/)
 <!-- BLOG-POST-LIST:END -->
 ▶ [...more blog articles](https://www.p3r.one/author/hrittik/)
 
