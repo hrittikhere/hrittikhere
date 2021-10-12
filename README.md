@@ -47,6 +47,7 @@
 
 ### Latest Blog Posts 📝
 <!-- BLOG-POST-LIST:START -->
+- [How to Delete all Pods in ReplicaSet](https://www.p3r.one/delete-all-pods-in-replicaset/)
 - [Falco: A Beginner’s Guide](https://www.p3r.one/falco/)
 - [Why DevOps Engineers Love Fluentd?](https://www.p3r.one/fluentd/)
 - [Operating On OpenTracing: A Beginner’s Guide](https://www.p3r.one/opentracing/)
@@ -56,7 +57,6 @@
 - [Courting Apache Kafka: A Beginner’s Guide To Mastering The Platform](https://www.p3r.one/apache-kafka/)
 - [How to Install Portainer on Remote Server ft. VSCode?](https://www.p3r.one/install-portainer-on-vm-vscode/)
 - [Prometheus: As Simple As Possible](https://www.p3r.one/prometheus-simplified/)
-- [Bootstrap K3S Data: For Beginners](https://www.p3r.one/k3s-bootstrap-data/)
 <!-- BLOG-POST-LIST:END -->
 ▶ [...more blog articles](https://www.p3r.one/author/hrittik/)
 
