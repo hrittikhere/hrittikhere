@@ -47,6 +47,7 @@
 
 ### Latest Blog Posts 📝
 <!-- BLOG-POST-LIST:START -->
+- [eBPF – The Next Frontier In Linux (Introduction)](https://www.p3r.one/ebpf/)
 - [How to Delete all Pods in ReplicaSet](https://www.p3r.one/delete-all-pods-in-replicaset/)
 - [Falco: A Beginner’s Guide](https://www.p3r.one/falco/)
 - [Why DevOps Engineers Love Fluentd?](https://www.p3r.one/fluentd/)
@@ -56,7 +57,6 @@
 - [Strimzi : Master Apache Kafka on Kubernetes](https://www.p3r.one/strimzi-kafka-on-kubernetes/)
 - [Courting Apache Kafka: A Beginner’s Guide To Mastering The Platform](https://www.p3r.one/apache-kafka/)
 - [How to Install Portainer on Remote Server ft. VSCode?](https://www.p3r.one/install-portainer-on-vm-vscode/)
-- [Prometheus: As Simple As Possible](https://www.p3r.one/prometheus-simplified/)
 <!-- BLOG-POST-LIST:END -->
 ▶ [...more blog articles](https://www.p3r.one/author/hrittik/)
 
