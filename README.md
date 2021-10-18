@@ -47,6 +47,7 @@
 
 ### Latest Blog Posts 📝
 <!-- BLOG-POST-LIST:START -->
+- [Parsing Packages with Porter](https://www.p3r.one/porter/)
 - [eBPF – The Next Frontier In Linux (Introduction)](https://www.p3r.one/ebpf/)
 - [How to Delete all Pods in ReplicaSet](https://www.p3r.one/delete-all-pods-in-replicaset/)
 - [Falco: A Beginner’s Guide](https://www.p3r.one/falco/)
@@ -56,7 +57,6 @@
 - [Delete namespace stuck in Terminating State](https://www.p3r.one/delete-terminating-namespace/)
 - [Strimzi : Master Apache Kafka on Kubernetes](https://www.p3r.one/strimzi-kafka-on-kubernetes/)
 - [Courting Apache Kafka: A Beginner’s Guide To Mastering The Platform](https://www.p3r.one/apache-kafka/)
-- [How to Install Portainer on Remote Server ft. VSCode?](https://www.p3r.one/install-portainer-on-vm-vscode/)
 <!-- BLOG-POST-LIST:END -->
 ▶ [...more blog articles](https://www.p3r.one/author/hrittik/)
 
