@@ -47,6 +47,7 @@
 
 ### Latest Blog Posts 📝
 <!-- BLOG-POST-LIST:START -->
+- [Cilium: A Beginner’s Guide To Improve Security](https://www.p3r.one/cilium/)
 - [How to clean up disk space occupied by Docker images?](https://www.p3r.one/clean-docker-image/)
 - [Parsing Packages with Porter](https://www.p3r.one/porter/)
 - [eBPF – The Next Frontier In Linux (Introduction)](https://www.p3r.one/ebpf/)
@@ -56,7 +57,6 @@
 - [Operating On OpenTracing: A Beginner’s Guide](https://www.p3r.one/opentracing/)
 - [Rook: Cloud-Native Storage Orchestration](https://www.p3r.one/rook-cncf/)
 - [Delete namespace stuck in Terminating State](https://www.p3r.one/delete-terminating-namespace/)
-- [Strimzi : Master Apache Kafka on Kubernetes](https://www.p3r.one/strimzi-kafka-on-kubernetes/)
 <!-- BLOG-POST-LIST:END -->
 ▶ [...more blog articles](https://www.p3r.one/author/hrittik/)
 
