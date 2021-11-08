@@ -34,8 +34,8 @@
 - [How to connect a Linux VM to VSCode?](https://www.youtube.com/watch?v=skKH_rKGjDw)
 - [How to deploy a Linux VM on Azure easily?](https://www.youtube.com/watch?v=FYhKavHHQU8)
 - [Use Azure as your personal computer ft  VSCode Webinar Recording](https://www.youtube.com/watch?v=YjgzByOr1Qk)
-- [Apple AirPods Max Unboxing & First Look (Sky Blue)](https://www.youtube.com/watch?v=lwc6_LELoa4)
-- [KubeCon + Hudson River Trading (HRT) Swag Kit Unboxing](https://www.youtube.com/watch?v=kvfOEPcDMt8)
+- [Apple AirPods Max Unboxing &amp; First Look &lpar;Sky Blue&rpar;](https://www.youtube.com/watch?v=lwc6_LELoa4)
+- [KubeCon + Hudson River Trading &lpar;HRT&rpar; Swag Kit Unboxing](https://www.youtube.com/watch?v=kvfOEPcDMt8)
 <!-- YOUTUBE:END -->
 ▶ [...more YouTube videos](https://www.youtube.com/channel/UC1Hcs44hqebvjvTeJuVEi2A?sub_confirmation=1)
 
