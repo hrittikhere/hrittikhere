@@ -47,6 +47,7 @@
 
 ### Latest Blog Posts 📝
 <!-- BLOG-POST-LIST:START -->
+- [Kaniko: How Users Can Make The Best Use of Docker](https://www.p3r.one/kaniko/)
 - [Cilium: A Beginner’s Guide To Improve Security](https://www.p3r.one/cilium/)
 - [How to clean up disk space occupied by Docker images?](https://www.p3r.one/clean-docker-image/)
 - [Parsing Packages with Porter](https://www.p3r.one/porter/)
@@ -56,7 +57,6 @@
 - [Why DevOps Engineers Love Fluentd?](https://www.p3r.one/fluentd/)
 - [Operating On OpenTracing: A Beginner’s Guide](https://www.p3r.one/opentracing/)
 - [Rook: Cloud-Native Storage Orchestration](https://www.p3r.one/rook-cncf/)
-- [Delete namespace stuck in Terminating State](https://www.p3r.one/delete-terminating-namespace/)
 <!-- BLOG-POST-LIST:END -->
 ▶ [...more blog articles](https://www.p3r.one/author/hrittik/)
 
