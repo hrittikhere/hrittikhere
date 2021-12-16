@@ -1,19 +1,10 @@
-<img  alt="ANIMATION" src="abcd.gif"></img>
-
-
-### 
 <h1 align="center">Hey <img src="Hi.gif" width="40px" />, Welcome to my GitHub 👨‍💻❤️</h1>
 
-## Everyone knows me as Hrittik, for me coding is way to create dreams into real life applications and solve problems. Not much to share right now. I'm in my beta phase and a β Microsoft Learn Student Ambassador. 
+I am a computer science sophomore who’s a software engineer before university hours and a content strategist/creator/evangelist after university hours. I focus on scalability with a passion for performance and simplicity.
 
-<ul>
-    <li>🌱 I’m currently learning everything 🤣 </li>
-    <li>🔭 I’m currently working on My Web Development Projects 🌐</li>
-    <li>⚙ ML and AI next</li>
-    <li>✍ I write content about the things I'm passionate about </li>
-    <li>⚡ Fun fact: Video Creation and Explaination intrigues me aka <a href="https://www.youtube.com/hrittikexplains/">Hrittik Explains</a></li>
-    <li>👯 I’m looking to collaborate with other content creators🤩</li>
-</ul>
+My best days are when I find ways to create impact in the communities I am a part of either by code, content or mentorship. My best projects are the ones that helped my users with their needs and my customers achieve their goals.
+
+Don’t hesitate to reach out if you’re interested in getting to know my endeavors, working with me, or just chatting over a cup of coffee.
 
 
 ### Connect with me 🌏
