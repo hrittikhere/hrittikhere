@@ -53,7 +53,7 @@ Don’t hesitate to reach out if you’re interested in getting to know my endea
 
 <br />
 <br />
-<h3 align="center">Show some &nbsp;❤️&nbsp; by starring this repository!</h3>
+<h3 align="center">Show some &nbsp;❤️&nbsp; | ⭐ this Repository</h3>
 
 ---
 <img align="left" alt="Dog" width="" src="tenor.gif" />
