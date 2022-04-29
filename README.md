@@ -37,19 +37,11 @@ Don’t hesitate to reach out if you’re interested in getting to know my endea
 
 
 ### Latest Blog Posts 📝
-<!-- BLOG-POST-LIST:START -->
-- [Kaniko: How Users Can Make The Best Use of Docker](https://www.p3r.one/kaniko/)
-- [Cilium: A Beginner’s Guide To Improve Security](https://www.p3r.one/cilium/)
-- [How to clean up disk space occupied by Docker images?](https://www.p3r.one/clean-docker-image/)
-- [Parsing Packages with Porter](https://www.p3r.one/porter/)
-- [eBPF – The Next Frontier In Linux &lpar;Introduction&rpar;](https://www.p3r.one/ebpf/)
-- [How to Delete all Pods in ReplicaSet](https://www.p3r.one/delete-all-pods-in-replicaset/)
-- [Falco: A Beginner’s Guide](https://www.p3r.one/falco/)
-- [Why DevOps Engineers Love Fluentd?](https://www.p3r.one/fluentd/)
-- [Operating On OpenTracing: A Beginner’s Guide](https://www.p3r.one/opentracing/)
-- [Rook: Cloud-Native Storage Orchestration](https://www.p3r.one/rook-cncf/)
-<!-- BLOG-POST-LIST:END -->
-▶ [...more blog articles](https://www.p3r.one/author/hrittik/)
+- [Kubernetes Taints and Tolerations | Ultimate Guide and Best Practices](https://www.containiq.com/post/kubernetes-taints-and-tolerations)
+- [Working With Kubernetes Objects | Cheat Sheet & Tutorial](https://www.containiq.com/post/kubernetes-objects)
+- [5 Ways to Access Kubernetes Clusters](https://loft.sh/blog/5-ways-to-access-kubernetes-clusters/)
+- [Using Jaeger vs. Prometheus | Differences & Use Cases](https://www.containiq.com/post/jaeger-vs-prometheus)
+
 
 <br />
 <br />
