@@ -1,4 +1,4 @@
-<h1 align="center">Hey <img src="Hi.gif" width="40px" />, Welcome to my GitHub 👨‍💻❤️</h1>
+<h1 align="center">Hey <img src="Hi.gif" width="40px" height="40px" />, Welcome to my GitHub 👨‍💻❤️</h1>
 
 I am a computer science sophomore who’s a software engineer before university hours and a content strategist/creator/evangelist after university hours. I focus on scalability with a passion for performance and simplicity.
 
