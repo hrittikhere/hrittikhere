@@ -37,6 +37,7 @@ Don’t hesitate to reach out if you’re interested in getting to know my endea
 
 
 ### Latest Blog Posts 📝
+- [How to Deploy Postgres on Kubernetes](https://www.containiq.com/post/deploy-postgres-on-kubernetes)
 - [Kubernetes Taints and Tolerations | Ultimate Guide and Best Practices](https://www.containiq.com/post/kubernetes-taints-and-tolerations)
 - [Working With Kubernetes Objects | Cheat Sheet & Tutorial](https://www.containiq.com/post/kubernetes-objects)
 - [5 Ways to Access Kubernetes Clusters](https://loft.sh/blog/5-ways-to-access-kubernetes-clusters/)
