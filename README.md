@@ -37,10 +37,11 @@ Don’t hesitate to reach out if you’re interested in getting to know my endea
 
 
 ### Latest Blog Posts 📝
+- [Managing Your Hyperconverged Network with Harvester | SUSE ](https://www.suse.com/c/rancher_blog/managing-your-hyperconverged-network-with-harvester/)
 - [How to Deploy Postgres on Kubernetes](https://www.containiq.com/post/deploy-postgres-on-kubernetes)
 - [Kubernetes Taints and Tolerations | Ultimate Guide and Best Practices](https://www.containiq.com/post/kubernetes-taints-and-tolerations)
 - [Working With Kubernetes Objects | Cheat Sheet & Tutorial](https://www.containiq.com/post/kubernetes-objects)
-- [5 Ways to Access Kubernetes Clusters](https://loft.sh/blog/5-ways-to-access-kubernetes-clusters/)
+- [5 Ways to Access Kubernetes Clusters | Loft Labs ](https://loft.sh/blog/5-ways-to-access-kubernetes-clusters/)
 - [Using Jaeger vs. Prometheus | Differences & Use Cases](https://www.containiq.com/post/jaeger-vs-prometheus)
 
 
