@@ -1,6 +1,6 @@
 <h1 align="center">Hey <img src="Hi.gif" width="40px" />, Welcome to my GitHub 👨‍💻❤️</h1>
 
-I am a computer science sophomore who’s a software engineer before university hours and a content strategist/creator/evangelist after university hours. I focus on scalability with a passion for performance and simplicity.
+I am a pre final year computer science student who’s a software engineer before university hours and a content strategist/creator/evangelist after university hours. I focus on scalability with a passion for performance and simplicity.
 
 My best days are when I find ways to create impact in the communities I am a part of either by code, content or mentorship. My best projects are the ones that helped my users with their needs and my customers achieve their goals.
 
