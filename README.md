@@ -37,9 +37,11 @@ Don’t hesitate to reach out if you’re interested in getting to know my endea
 
 
 ### Latest Blog Posts 📝
+- [How to use Kubernetes events for effective alerting and monitoring | Grafana Labs](https://grafana.com/blog/2023/01/23/how-to-use-kubernetes-events-for-effective-alerting-and-monitoring/)
 - [How to SSH into a Docker container | Tailscale ](https://tailscale.com/learn/ssh-into-docker-container/)
-- [Managing Your Hyperconverged Network with Harvester | SUSE ](https://www.suse.com/c/rancher_blog/managing-your-hyperconverged-network-with-harvester/)
+- [Profiling Go Code with GoLand | JetBrains ](https://blog.jetbrains.com/go/2023/02/02/profiling-go-code-with-goland/)
 - [Understanding Fuzz Testing in Go | JetBrains ](https://blog.jetbrains.com/go/2022/12/14/understanding-fuzz-testing-in-go/)
+- [Managing Your Hyperconverged Network with Harvester | SUSE ](https://www.suse.com/c/rancher_blog/managing-your-hyperconverged-network-with-harvester/)
 - [How to Deploy Postgres on Kubernetes](https://www.containiq.com/post/deploy-postgres-on-kubernetes)
 - [Kubernetes Taints and Tolerations | Ultimate Guide and Best Practices](https://www.containiq.com/post/kubernetes-taints-and-tolerations)
 - [Working With Kubernetes Objects | Cheat Sheet & Tutorial](https://www.containiq.com/post/kubernetes-objects)
