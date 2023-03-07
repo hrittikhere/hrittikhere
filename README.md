@@ -32,10 +32,6 @@ Don’t hesitate to reach out if you’re interested in getting to know my endea
 
 
 
-<br />
-<br />
-
-
 ### Latest Blog Posts 📝
 - [How to use Kubernetes events for effective alerting and monitoring | Grafana Labs](https://grafana.com/blog/2023/01/23/how-to-use-kubernetes-events-for-effective-alerting-and-monitoring/)
 - [How to SSH into a Docker container | Tailscale ](https://tailscale.com/learn/ssh-into-docker-container/)
