@@ -22,11 +22,11 @@ Don’t hesitate to reach out if you’re interested in getting to know my endea
 
 ### Latest YouTube Videos 📺
 <!-- YOUTUBE:START -->
+- [KEDA CPU Autoscaling Tutorial: Deployments, Load Balancer &amp; Real-Time Scaling Demo](https://www.youtube.com/watch?v=c4KuDXK0DJ8)
+- [Certified GitOps Associate &lpar;CGOA&rpar; - Pass the Exam!](https://www.youtube.com/watch?v=MllzsLje9SU)
+- [Unboxing Gold Microsoft Learn Student Ambassadors Kit 2022](https://www.youtube.com/watch?v=zBds9VdIGj4)
 - [CNCF Mega Swags Unboxing: T-shirts &amp; Hoodies](https://www.youtube.com/watch?v=gOY9_SD0-Cw)
 - [How to connect a Linux VM to VSCode?](https://www.youtube.com/watch?v=skKH_rKGjDw)
-- [How to deploy a Linux VM on Azure easily?](https://www.youtube.com/watch?v=FYhKavHHQU8)
-- [Use Azure as your personal computer ft  VSCode Webinar Recording](https://www.youtube.com/watch?v=YjgzByOr1Qk)
-- [Apple AirPods Max Unboxing &amp; First Look &lpar;Sky Blue&rpar;](https://www.youtube.com/watch?v=lwc6_LELoa4)
 <!-- YOUTUBE:END -->
 ▶ [...more YouTube videos](https://www.youtube.com/channel/UC1Hcs44hqebvjvTeJuVEi2A?sub_confirmation=1)
 
