@@ -22,11 +22,11 @@ Don’t hesitate to reach out if you’re interested in getting to know my endea
 
 ### Latest YouTube Videos 📺
 <!-- YOUTUBE:START -->
+- [The Docker Captain Gossip: Docker Model Runner with Saloni](https://www.youtube.com/watch?v=8ghmJg3ArOc)
 - [The Docker Captain Gossip: Docker Hardened Image with Sagar](https://www.youtube.com/watch?v=tdxUgO5ONsM)
 - [The Docker Captain Gossip: Docker MCP Catalog with Shivay Lamba](https://www.youtube.com/watch?v=uBdtC3r92rg)
 - [KEDA CPU Autoscaling Tutorial: Deployments, Load Balancer &amp; Real-Time Scaling Demo](https://www.youtube.com/watch?v=c4KuDXK0DJ8)
 - [Certified GitOps Associate &lpar;CGOA&rpar; - Pass the Exam!](https://www.youtube.com/watch?v=MllzsLje9SU)
-- [Unboxing Gold Microsoft Learn Student Ambassadors Kit 2022](https://www.youtube.com/watch?v=zBds9VdIGj4)
 <!-- YOUTUBE:END -->
 ▶ [...more YouTube videos](https://www.youtube.com/channel/UC1Hcs44hqebvjvTeJuVEi2A?sub_confirmation=1)
 
